@@ -1,11 +1,12 @@
 ![logo](https://github.com/devabhishekagrahari/devabhishekagrahari/blob/main/banner.webp)
 <h1 align="center">Hi 👋, I'm Abhishek Agrahari</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:800/1*zzTEyTwyy7jXibtqVWg84Q.gif"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="devabhishek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500" src="https://github-profile-trophy.vercel.app/?username=devabhishek" alt="devabhishek" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:800/1*zzTEyTwyy7jXibtqVWg84Q.gif"/>
 
 - 🔭 I’m currently working on **SabjiMandi**
 
